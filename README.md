@@ -1,2 +1,8 @@
-# Boxing-mma-gym
-This project is a dedicated platform for boxing and MMA enthusiasts, featuring comprehensive coverage of fight events, fighter profiles, training resources, and community forums. It serves as a central hub for fans and fighters to stay informed and engaged with the latest developments in combat sports
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
